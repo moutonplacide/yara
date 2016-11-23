@@ -1,1 +1,1 @@
-# yara
+# Yara malware rules
